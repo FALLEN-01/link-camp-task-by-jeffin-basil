@@ -96,16 +96,16 @@ const About = () => {
 
                     <div className="about-stats">
                         <div className="stat-card">
-                            <div className="stat-number">500+</div>
-                            <div className="stat-label">Past Participants</div>
+                            <div className="stat-number">2</div>
+                            <div className="stat-label">Days Event</div>
                         </div>
                         <div className="stat-card">
-                            <div className="stat-number">95%</div>
-                            <div className="stat-label">Success Rate</div>
+                            <div className="stat-number">15-16</div>
+                            <div className="stat-label">February 2025</div>
                         </div>
                         <div className="stat-card">
-                            <div className="stat-number">20+</div>
-                            <div className="stat-label">Industry Partners</div>
+                            <div className="stat-number">200+</div>
+                            <div className="stat-label">Expected Participants</div>
                         </div>
                     </div>
                 </div>
