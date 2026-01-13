@@ -94,13 +94,6 @@ link-camp-task-by-jeffin-basil/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Contact
-
-**IEEE LINK**
-- Email: link@ieee.org
-- Phone: +91 12345 67890
-
 ---
 
 **Note**: This website was created as part of the IEEE LINK team recruitment task.
