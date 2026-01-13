@@ -66,8 +66,8 @@ const Hero = () => {
                                 <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
                             </svg>
                             <div>
-                                <span className="detail-label">Participants</span>
-                                <span className="detail-value">200+ Students</span>
+                                <span className="detail-label">Registration</span>
+                                <span className="detail-value">Open Now</span>
                             </div>
                         </div>
                     </div>

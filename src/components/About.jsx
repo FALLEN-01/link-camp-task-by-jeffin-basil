@@ -104,8 +104,8 @@ const About = () => {
                             <div className="stat-label">February 2025</div>
                         </div>
                         <div className="stat-card">
-                            <div className="stat-number">200+</div>
-                            <div className="stat-label">Expected Participants</div>
+                            <div className="stat-number">10+</div>
+                            <div className="stat-label">Workshops</div>
                         </div>
                     </div>
                 </div>

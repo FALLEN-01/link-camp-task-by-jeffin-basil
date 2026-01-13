@@ -6,7 +6,8 @@
     justify-content: center;
     overflow: hidden;
     background: var(--gradient-hero);
-    padding-top: 180px;
+    padding-top: 175px;
+    padding-bottom: var(--spacing-3xl);
 }
 
 .hero-background {
