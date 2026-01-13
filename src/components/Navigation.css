@@ -112,10 +112,6 @@
     color: var(--ieee-blue);
 }
 
-.navigation:not(.scrolled) .nav-link:hover {
-    color: var(--white);
-}
-
 .nav-link.active {
     color: var(--ieee-blue);
 }
